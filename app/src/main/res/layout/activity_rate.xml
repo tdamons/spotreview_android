@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.spotreview.spotreview.RateActivity"
+    android:background="#ffffff">
+
+    <RelativeLayout
+        android:id="@+id/rl_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#008000">
+
+        <ImageView
+            android:id="@+id/iv_rateexperience_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_alignParentStart="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_back"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="15dp"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="RATE EXPERIENCE"
+            android:textSize="20dp"
+            android:textColor="#ffffff" />
+    </RelativeLayout>
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView11"
+        android:src="@drawable/logo_top"
+        android:layout_below="@+id/rl_title"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:id="@+id/imageView12"
+        android:src="@mipmap/icon60"
+        android:layout_below="@+id/imageView11"
+        android:layout_marginTop="10dp" />
+
+    <Button
+        android:id="@+id/rate_btnGood"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textView32"
+        android:layout_alignParentEnd="false"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="5dp"
+        android:background="#ffffff"
+        android:paddingLeft="70dp"
+        android:paddingRight="70dp"
+        android:text="GOOD"
+        android:textColor="#008000"
+        android:textSize="30dp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:layout_width="250dp"
+        android:layout_height="1dp"
+        android:id="@+id/textView32"
+        android:background="#000000"
+        android:autoText="false"
+        android:layout_marginLeft="40dp"
+        android:layout_marginRight="40dp"
+        android:layout_marginBottom="5dp"
+        android:layout_above="@+id/rate_btnBad"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/rate_btnBad"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="false"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:background="#ffffff"
+        android:paddingLeft="70dp"
+        android:paddingRight="70dp"
+        android:text="BAD"
+        android:textColor="#BF0302"
+        android:textSize="30dp"
+        android:textStyle="normal" />
+
+</RelativeLayout>

@@ -1,0 +1,166 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.spotreview.fragments.ContactUsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#ffffff">
+
+        <RelativeLayout
+            android:id="@+id/rl_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#008000">
+
+            <ImageView
+                android:id="@+id/iv_contactus_menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_alignParentStart="true"
+                android:layout_centerVertical="true"
+                android:src="@drawable/ic_menu"/>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="15dp"
+                android:textAppearance="?android:attr/textAppearanceMedium"
+                android:text="CONTACT US"
+                android:textSize="20dp"
+                android:textColor="#ffffff" />
+        </RelativeLayout>
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView15"
+            android:src="@drawable/logo_top"
+            android:layout_below="@+id/rl_title"
+            android:layout_marginRight="20dp"
+            android:layout_marginLeft="20dp"
+            android:layout_centerHorizontal="true" />
+
+        <RelativeLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/imageView15"
+            android:gravity="center_horizontal"
+            android:id="@+id/relative1"
+            android:layout_centerHorizontal="true">
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Physical Address:"
+                android:id="@+id/textView36"
+                android:layout_weight="0.5"
+                android:layout_marginTop="10dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentRight="false" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView37"
+                android:layout_weight="0.5"
+                android:gravity="left"
+                android:text="@string/physical_address_detail"
+                android:layout_marginTop="10dp"
+                android:layout_toRightOf="@+id/textView36" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/relative2"
+            android:layout_below="@+id/relative1"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true">
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Telephone Number:"
+                android:id="@+id/textView38"
+                android:layout_weight="0.5"
+                android:singleLine="true"
+                android:layout_alignParentLeft="false" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView39"
+                android:layout_weight="0.5"
+                android:gravity="left"
+                android:text="+27 11 791 4836"
+                android:layout_toRightOf="@+id/textView38" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/relativeLayout2"
+            android:layout_below="@+id/relative2"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true" >
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="E-mail Address:"
+                android:id="@+id/textView40"
+                android:layout_weight="0.5"
+                android:singleLine="true"
+                android:layout_alignParentLeft="false" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/contactus_txtEmail"
+                android:layout_weight="0.5"
+                android:gravity="left"
+                android:layout_toRightOf="@+id/textView40"
+                android:textColor="#688bfe" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/relativeLayout3"
+            android:layout_below="@+id/relativeLayout2"
+            android:gravity="center_horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_centerHorizontal="true" >
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Website Address:"
+                android:id="@+id/textView42"
+                android:layout_weight="0.5"
+                android:singleLine="true"
+                android:layout_alignParentLeft="false" />
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/contactus_txtwebsiteAddress"
+                android:layout_weight="0.5"
+                android:gravity="left"
+                android:layout_toRightOf="@+id/textView42"
+                android:textColor="#688bfe" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3160da7e2a572fc680216e75df63253540802557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/aws-android-sdk-s3-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e29f798004e002ac8b19b75374a2cb473287cd82">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.9_a4dc3fa01d810f2dcedd5f93c1ff4efda4026e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/aws-android-sdk-cognito-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78391ba106ce0de03e8c82d07c73c876a1cc9543">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cognito-2.2.9_f2cdb49747912c7e80bcc80a1fcc79aeaf7c2c1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/additionnal_844bae46a8e9bdbe7b3f5ee46314a851594ca2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/2804008b98e3b3850a96b015cccf5862bbe3b512/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d0e35d5ac6f13bb42e295bba1940bfd7d6efcca1">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_444b517f1e5c3742fdf3806c7e6f96211d5c11df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/0feb49744f70a21562188c011217bc8283ff4e28/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="406557a6f4369568e5515f8a3c66c97b23f21534">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_9e9a73d2fa0e8d02df90275e25022d4f8a8530ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/8e958b9254c62631af4fd30effa9752bcfa05f89/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56c978fe05228a996c839624f9a48fe235c9612c">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_74be667e6d7e13c7d038e2d0f7a614523eb8f00e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/96fa0d73f4b41749a4b090926d4163fc89b4ec7c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ca05b62d108406bc08eb0ff9e0d619203724eff">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_6f0b3bbc7bdf90fcb172addabe44aeaeaf0df499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/additionnal.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/additionnal_844bae46a8e9bdbe7b3f5ee46314a851594ca2f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/0b9eaec18996c722cb295ea9d5ab13fa0f4bdcf0/output/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_632d3f1f0a037b6ed6a6e440bad1a8b847fc9371.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/e3f463e1ae791e61a5df43b072b53a7f1d19c9de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_6831473d4db4dcce510530f5563d21d2460751a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/62141107679fcf769e7f6fbb327785d5210b3076/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="990cba7dbe7fc91e1082a9a8ea6d663c0741a0f1">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_b5dd7f25f253d927249afab50184162778702b9a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_532d062c6fc77964265191e4355715eda146d64c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/gson-2.3_24456cc84cf0eb734b5fcb3b3d714f8ac6f2874e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.gradle/caches/modules-2/files-2.1/com.twitter/twitter-text/1.13.0/78415b95ae3184c5926d593feab64bfc0b73b2dd/twitter-text-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/twitter-text-1.13.0_cc0e471413e8824eb182c97e8ddedf009a644201.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/aws-android-sdk-core-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c10a82dd7dc4d73958d4e08179d3f6aacc209677">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.9_8a75d55e22416b807732b35e562f6a20c7ef4739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/5526cab3de307b48564e2da200a96e75a0fb8fd0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_4d1ce4b73d3cfa29cbf7605205ae99b7858c0db1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/mail_a5b9b133093b44c99d70694def33d68031b4f94e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.8.0/a517f29ed06be2b2879524fcd94b6e9b36e2e0b5/retrofit-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a517f29ed06be2b2879524fcd94b6e9b36e2e0b5">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/retrofit-1.8.0_8c277c5c582ebe29e6c552ede0711d36c62fef36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/72e90a08e2ac341573a03d918263319dd3743397/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7066f2c5d8b2e4d2232d0713436f80e929afd2fd">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_7d4502affaf2b29d8859cdc85ae4f10490523031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/aws-android-sdk-s3-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e29f798004e002ac8b19b75374a2cb473287cd82">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/aws-android-sdk-s3-2.2.9_a4dc3fa01d810f2dcedd5f93c1ff4efda4026e4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/aws-android-sdk-core-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c10a82dd7dc4d73958d4e08179d3f6aacc209677">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/aws-android-sdk-core-2.2.9_8a75d55e22416b807732b35e562f6a20c7ef4739.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/mail.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/mail_a5b9b133093b44c99d70694def33d68031b4f94e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/activation_2e5f7dc3fed1623b40ee54bf9748f43b4a13358c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/4338a9e06ff55bf860ddd775ca3232197ae780fd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_187f89a00babb69dd089e1c73144023280842516.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/picasso-2.5.2_f5c549fa48cbf0b7c85668940f3bf39305c054ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/d9f82b64e54588744b324bbd64b7e40afab6e776/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b272ca6a1525f5c6215224eb3cfeb32eb5270667">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_70ae130a91c1449e0ccfec1a6c3918cb348efd50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/867dd0df181a4307174f8f3aceb3448b5aaa1a0d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_52e0e322ae40520144ec90e604a56ff197a11c76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.android/build-cache/0b9eaec18996c722cb295ea9d5ab13fa0f4bdcf0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/classes_9e86a2824a3d4b9270fb3da6dc44105d13ce9211.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_54afbb17b6fbc23d2315ad68cc2ab205112b855d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/activation.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/activation_2e5f7dc3fed1623b40ee54bf9748f43b4a13358c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.1/44780c2cf98f6a3cf4e77f1234d644758b329201/bolts-android-1.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44780c2cf98f6a3cf4e77f1234d644758b329201">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.1_adad0fd5161bf54050434f0bdb043bb77111871f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/developer/Documents/My_Workspace/SpotReview 2/app/libs/aws-android-sdk-cognito-2.2.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="78391ba106ce0de03e8c82d07c73c876a1cc9543">
+        <dex dex="/Users/developer/Documents/My_Workspace/SpotReview 2/app/build/intermediates/pre-dexed/debug/aws-android-sdk-cognito-2.2.9_f2cdb49747912c7e80bcc80a1fcc79aeaf7c2c1a.jar" />
+    </item>
+
+</items>
